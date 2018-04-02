@@ -12,6 +12,7 @@ import com.sun.jersey.api.client.WebResource;
 import com.sun.jersey.api.client.config.ClientConfig;
 import com.sun.jersey.api.client.config.DefaultClientConfig;
 
+/* this one is old */
 
 
 public class RestClientTest_old{
